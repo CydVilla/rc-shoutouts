@@ -1,4 +1,3 @@
-![Screenshot](public/img/readmeScreenshot.png)
 ## Installation
 
 1. Clone repo
